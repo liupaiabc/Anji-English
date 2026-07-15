@@ -8,7 +8,7 @@ Anji English is a collection of beginner-friendly English learning materials and
 - [Clauses](grammar/clauses.md): Beginner clause lessons, currently focused on attributive (relative) clauses with **who** and **that**.
 - [Tenses](grammar/tenses.md): The simple present, present continuous, and simple past tenses.
 - [Topics](topics/topics.md): Topic names for beginner speaking and writing practice.
-- [Vocabulary](vocab/words-1.txt): Preferred words for examples and generated practice.
+- Vocabulary: Preferred words for examples and generated practice in [Words 1](vocab/words-1.txt) and [Words 2](vocab/words-2.txt).
 
 ## Practice Skills
 
@@ -36,7 +36,7 @@ Each skill reads its relevant current files in `grammar/`, `topics/`, and `vocab
 
 ## Adding Learning Content
 
-- Add sentence structures to `grammar/sentence-patterns.md` as separate `##` sections.
+- Add sentence structures to the appropriate category in `grammar/sentence-patterns.md` as numbered `###` sections. Add a new `##` category only when none of the existing groups fit.
 - Add clauses to `grammar/clauses.md` as separate `##` sections, with `###` subsections when helpful.
 - Add tenses to `grammar/tenses.md` only when they are ready to be taught.
 - Keep `topics/topics.md` as a list of topic names only.
