@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repository Consistency Audit"
+  short_description: "Find and repair repository inconsistencies"
+  default_prompt: "Use $repo-consistency-audit to audit this repository and fix safe inconsistencies."

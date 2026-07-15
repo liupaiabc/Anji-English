@@ -214,7 +214,7 @@ ill
 kitchen
 light
 milk
-patato
+potato
 warm
 wash
 

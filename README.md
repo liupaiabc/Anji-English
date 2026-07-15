@@ -12,13 +12,15 @@ Anji English is a collection of beginner-friendly English learning materials and
 
 ## Practice Skills
 
-The repository includes three project skills under `.agents/skills/`. Codex reads these skills when working in this repository.
+The repository includes five project skills under `.agents/skills/`. Codex reads these skills when working in this repository.
 
 | Skill | Purpose | Example |
 | --- | --- | --- |
 | `$sentence-pattern-practice` | Generate 20–30 sentences for one sentence pattern. | `$sentence-pattern-practice pattern 5` |
 | `$clause-practice` | Generate 20–30 sentences for one clause lesson. | `$clause-practice Attributive Clause (Relative Clause)` |
 | `$topic-practice` | Generate a topic monologue or a requested dialog using the available grammar. | `$topic-practice Home` |
+| `$learn-a-word` | Explain a word's meanings in depth with grammar-controlled examples. | `$learn-a-word cool` |
+| `$repo-consistency-audit` | Find and safely repair mismatches across repository content, references, skills, and documentation. | `$repo-consistency-audit audit this repository` |
 
 You can add restrictions to a request when needed:
 
@@ -26,9 +28,11 @@ You can add restrictions to a request when needed:
 $sentence-pattern-practice pattern 8 using the past tense
 $topic-practice Food using only the simple present tense
 $topic-practice Telephone Calls as a dialog
+$learn-a-word cool
+$repo-consistency-audit check the repository after a file rename
 ```
 
-The skills read the current files in `grammar/`, `topics/`, and `vocab/` each time. New learning content is therefore available to the skills without copying it into their instructions.
+Each skill reads its relevant current files in `grammar/`, `topics/`, and `vocab/` when it runs. New learning content is therefore available to the skills without copying it into their instructions.
 
 ## Adding Learning Content
 

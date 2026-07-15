@@ -27,6 +27,7 @@ This repository contains English lessons and practice generators for a beginner 
 - Keep `agents/openai.yaml` synchronized with the skill's purpose and default prompt.
 - When a skill selects content by title, ignore sections named `Quick Practice` unless the user explicitly requests them.
 - After changing a skill, run the available skill validator and test at least one realistic invocation.
+- After renaming files or changing grammar scope, run `$repo-consistency-audit` to synchronize references, skills, README content, and repository guidance.
 
 ## Markdown Guidelines
 

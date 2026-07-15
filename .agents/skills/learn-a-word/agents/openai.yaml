@@ -1,0 +1,4 @@
+interface:
+  display_name: "Learn a Word"
+  short_description: "Explore word meanings with examples"
+  default_prompt: "Use $learn-a-word to explain the word cool and give examples for every meaning."
