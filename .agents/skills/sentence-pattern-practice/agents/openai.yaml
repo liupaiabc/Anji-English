@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sentence Pattern Practice"
+  short_description: "Generate beginner sentence-pattern practice"
+  default_prompt: "Use $sentence-pattern-practice to generate practice sentences for pattern 5."

@@ -1,0 +1,49 @@
+# Beginner English Topics
+
+- Greetings
+- Introductions
+- Common Questions
+- The Alphabet
+- Numbers
+- Colors
+- Shapes
+- Family
+- Friends
+- People
+- Feelings
+- The Body
+- Clothes
+- Food
+- Drinks
+- Meals
+- Home
+- Rooms
+- Furniture
+- School
+- The Classroom
+- School Subjects
+- Toys
+- Animals
+- Pets
+- Jobs
+- Daily Routines
+- Time
+- Days and Months
+- Birthdays
+- Weather
+- Seasons
+- Hobbies
+- Sports
+- Music
+- Games
+- Transportation
+- Places in Town
+- Shopping
+- Money
+- Telephone Calls
+- Holidays
+- Nature
+- Describing People
+- Describing Things
+- Size and Measurements
+- Position and Direction

@@ -1,0 +1,41 @@
+# Anji English
+
+Anji English is a collection of beginner-friendly English learning materials and reusable Codex practice skills. The lessons focus on clear grammar, familiar vocabulary, and child-appropriate examples.
+
+## Learning Materials
+
+- [Sentence Patterns](grammar/sentence-patterns.md): Common ways to build simple English sentences.
+- [Clauses](grammar/clauses.md): Beginner clause lessons, currently focused on attributive (relative) clauses with **who** and **that**.
+- [Tenses](grammar/tenses.md): The simple present, present continuous, and simple past tenses.
+- [Topics](topics/topics.md): Topic names for beginner speaking and writing practice.
+- [Vocabulary](vocab/words-1.txt): Preferred words for examples and generated practice.
+
+## Practice Skills
+
+The repository includes three project skills under `.agents/skills/`. Codex reads these skills when working in this repository.
+
+| Skill | Purpose | Example |
+| --- | --- | --- |
+| `$sentence-pattern-practice` | Generate 20–30 sentences for one sentence pattern. | `$sentence-pattern-practice pattern 5` |
+| `$clause-practice` | Generate 20–30 sentences for one clause lesson. | `$clause-practice Attributive Clause (Relative Clause)` |
+| `$topic-practice` | Generate a topic monologue or a requested dialog using the available grammar. | `$topic-practice Home` |
+
+You can add restrictions to a request when needed:
+
+```text
+$sentence-pattern-practice pattern 8 using the past tense
+$topic-practice Food using only the simple present tense
+$topic-practice Telephone Calls as a dialog
+```
+
+The skills read the current files in `grammar/`, `topics/`, and `vocab/` each time. New learning content is therefore available to the skills without copying it into their instructions.
+
+## Adding Learning Content
+
+- Add sentence structures to `grammar/sentence-patterns.md` as separate `##` sections.
+- Add clauses to `grammar/clauses.md` as separate `##` sections, with `###` subsections when helpful.
+- Add tenses to `grammar/tenses.md` only when they are ready to be taught.
+- Keep `topics/topics.md` as a list of topic names only.
+- Put vocabulary words in `vocab/*.txt`, one word or phrase per line. Unit labels such as `unit-1` may be used to organize them.
+
+Keep all explanations and examples natural, concise, and suitable for a beginner learner.

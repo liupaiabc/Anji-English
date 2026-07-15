@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clause Practice"
+  short_description: "Generate beginner clause practice sentences"
+  default_prompt: "Use $clause-practice to generate practice sentences for the Attributive Clause."

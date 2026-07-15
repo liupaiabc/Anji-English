@@ -1,0 +1,4 @@
+interface:
+  display_name: "Topic Practice"
+  short_description: "Generate topic monologues and dialogs"
+  default_prompt: "Use $topic-practice to write a beginner monologue about Food using only the simple present tense."
