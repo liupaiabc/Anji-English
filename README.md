@@ -5,7 +5,7 @@ Anji English is a collection of beginner-friendly English learning materials and
 ## Learning Materials
 
 - [Sentence Patterns](grammar/sentence-patterns.md): Common ways to build simple English sentences.
-- [Clauses](grammar/clauses.md): Beginner clause lessons, currently focused on attributive (relative) clauses with **who** and **that**.
+- [Clauses](grammar/clauses.md): Beginner clause lessons, currently focused on attributive (relative) clauses with **who**, **that**, and **where**.
 - [Tenses](grammar/tenses.md): The simple present, present continuous, and simple past tenses.
 - [Topics](topics/topics.md): Topic names for beginner speaking and writing practice.
 - Vocabulary: Preferred words for examples and generated practice in [Words 1](vocab/words-1.txt) and [Words 2](vocab/words-2.txt).

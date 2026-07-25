@@ -53,7 +53,7 @@ Also accept an optional example count from 3 through 5. Use four examples per me
 
 - Give four examples for every meaning by default, or the user's requested count from 3 through 5.
 - Use only sentence patterns, clauses, tense forms, question forms, negatives, and connectors documented in `grammar/`.
-- Treat connectors and embedded clauses as grammar. With the current files, use only **and**, **but**, and **because** to join ideas, plus relative **who** and **that** as documented. Do not use **when**, **after**, **before**, **if**, **so**, or another clause introducer unless it is added to `grammar/`.
+- Treat connectors and embedded clauses as grammar. With the current files, use only **and**, **but**, and **because** to join ideas, plus relative **who**, **that**, and **where** as documented. Do not use **when**, **after**, **before**, **if**, **so**, or another clause introducer unless it is added to `grammar/`.
 - Use the target word, an appropriate inflected form, or the complete target phrase in every example. Bold that occurrence.
 - Make the intended meaning clear from context and do not let an example accidentally demonstrate a different sense.
 - For an idiom, phrasal verb, informal expression, or specialized meaning, preserve its normal wording, complements, register, and collocations in every example. Do not create examples by analogy when native speakers would not normally use the expression that way.

@@ -38,7 +38,7 @@ Also accept an optional `grammar` restriction, such as `simple past tense` or `p
 - Include the selected type of clause in every sentence.
 - Write a complete main sentence and a complete, correctly attached clause; do not write sentence fragments.
 - Place the clause where the selected section says it belongs.
-- Follow distinctions taught in the selected section. For the current attributive clause, use **who** for people and **that** for animals or things.
+- Follow distinctions taught in the selected section. For the current attributive clause, use **who** for people, **that** for animals or things, and **where** for places.
 - Make each clause add useful information instead of repeating the main sentence.
 - Use varied main-sentence structures; do not begin most sentences with the same phrase such as `This is`.
 
