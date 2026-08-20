@@ -144,6 +144,16 @@ Questions:
 - Did you play football?
 - Did he go to school?
 
+Question-word questions:
+
+- Where did Pat work?
+- Who did Pat help?
+- Where did the children hop and skip?
+- Where did Tod live?
+- What did Tod love?
+- Who did David invite?
+- Why did David point and shout?
+
 > After **did** or **did not**, use the base verb: `Did he go...?`, not `Did he went...?`
 
 ## 4. Present or Past?
