@@ -154,7 +154,9 @@ Use **there is** for one thing and **there are** for two or more things.
 - There are two apples in the bag.
 - There are many stars in the sky.
 
-### 12. Comparing two people or things
+### 12. Comparing people or things
+
+For two, use a comparative adjective with **than**.
 
 **Pattern:** `noun/pronoun + be + comparative adjective + than + noun/pronoun`
 
@@ -164,6 +166,23 @@ Use **there is** for one thing and **there are** for two or more things.
 - This book is easier than that book.
 
 For many short adjectives, add **-er**: `tall → taller`, `small → smaller`. Some words are different: `good → better`.
+
+For a group of three or more, use **the** with a superlative adjective.
+
+**Pattern:** `noun/pronoun + be + the + superlative adjective + noun + (group)`
+
+- The blue whale is the biggest animal in the world.
+- This lizard is the smallest animal here.
+- Tigers are the most exciting animals here.
+
+In this pattern, use **is** and a singular noun with one animal; use **are** and a plural noun with more than one.
+
+**Pattern:** `one of the + superlative adjective + plural noun`
+
+- The blue whale is one of the biggest animals in the world.
+- This tiger is one of the most beautiful animals here.
+
+The noun after **one of the** is plural, even when the subject is singular. See [Comparing with Adjectives](adjectives.md) for forms and spelling rules. For opinions with **think** or **thinks**, see [Opinion Clauses with Think](clauses.md#opinion-clauses-with-think).
 
 ### 13. Making simple sentences longer
 

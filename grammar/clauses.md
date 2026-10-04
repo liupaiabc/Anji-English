@@ -1,6 +1,6 @@
 # Clauses
 
-This guide introduces a simple English clause for a beginner learner.
+This guide introduces simple English clauses for a beginner learner.
 
 ## Attributive Clause (Relative Clause)
 
@@ -33,6 +33,19 @@ We can put the two parts together:
 
 - I know the girl. She can sing.
 - I know the girl **who can sing**.
+
+## Opinion Clauses with Think
+
+Use **I think + sentence** to give an opinion. Use **think** after **I**, **you**, **we**, or **they**; use **thinks** after **he**, **she**, or one named person, such as **Lenny** or **Fred**. **That** is optional after **think** or **thinks**.
+
+**Pattern:** `subject + think/thinks + (that) + complete sentence`
+
+- I think tigers are the most beautiful animals.
+- I think the rabbit is the most boring animal here.
+- Lenny thinks the most exciting animal is the tiger.
+- Fred thinks that tigers are the most exciting animals.
+
+The sentence after **think** or **thinks** needs its own subject and verb. Match **is** with a singular subject and **are** with a plural subject. See [Comparing with Adjectives](adjectives.md) for superlative forms.
 
 ## Quick Practice
 

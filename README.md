@@ -5,8 +5,9 @@ Anji English is a collection of beginner-friendly English learning materials and
 ## Learning Materials
 
 - [Sentence Patterns](grammar/sentence-patterns.md): Common ways to build simple English sentences.
-- [Clauses](grammar/clauses.md): Beginner clause lessons, currently focused on attributive (relative) clauses with **who**, **that**, and **where**.
+- [Clauses](grammar/clauses.md): Attributive clauses with **who**, **that**, and **where**, plus opinion clauses after **think/thinks**.
 - [Tenses](grammar/tenses.md): The simple present, present continuous, and simple past tenses.
+- [Comparing with Adjectives](grammar/adjectives.md): Comparative and superlative forms, including spelling changes and **good → better → the best**.
 - [Topics](topics/topics.md): Topic names for beginner speaking and writing practice.
 - Vocabulary: Preferred words for examples and generated practice in [Words 1](vocab/words-1.txt) and [Words 2](vocab/words-2.txt).
 
@@ -39,6 +40,7 @@ Each skill reads its relevant current files in `grammar/`, `topics/`, and `vocab
 - Add sentence structures to the appropriate category in `grammar/sentence-patterns.md` as numbered `###` sections. Add a new `##` category only when none of the existing groups fit.
 - Add clauses to `grammar/clauses.md` as separate `##` sections, with `###` subsections when helpful.
 - Add tenses to `grammar/tenses.md` only when they are ready to be taught.
+- Add comparison forms and spelling rules to `grammar/adjectives.md`; put sentence structures in `grammar/sentence-patterns.md` and opinion clauses in `grammar/clauses.md`.
 - Keep `topics/topics.md` as a list of topic names only.
 - Put vocabulary words in `vocab/*.txt`, one word or phrase per line. Unit labels such as `unit-1` may be used to organize them.
 

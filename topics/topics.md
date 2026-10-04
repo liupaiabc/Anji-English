@@ -50,3 +50,4 @@
 - Health
 - Exploring our world
 - Technology
+- At the zoo
